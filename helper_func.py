@@ -1,6 +1,6 @@
 # (©)Codexbotz
 # Recode by @zioassistant
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/SharingUserbot & t.me/zioassistant
 
 import asyncio
 import base64

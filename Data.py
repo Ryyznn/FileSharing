@@ -1,6 +1,6 @@
-# Credits: @mrismanaziz
+# Credits: @zioassistant
 # FROM File-Sharing-Man <https://github.com/mrismanaziz/File-Sharing-Man/>
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/SharingUserbot & t.me/underlevell
 
 from pyrogram.types import InlineKeyboardButton
 
@@ -24,7 +24,7 @@ class Data:
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
-👨‍💻 Develoved by @Lunatic0de</b>
+👨‍💻 Develoved by @zioassistant</b>
 """
 
     close = [
@@ -52,7 +52,7 @@ class Data:
 
  • Creator: @{}
  • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
- • Owner Repo: @mrismanaziz
+ • Owner Repo: @zioassistant
 
-👨‍💻 Develoved by @Lunatic0de</b>
+👨‍💻 Develoved by @zioassistant</b>
 """

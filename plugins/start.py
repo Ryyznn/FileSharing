@@ -1,6 +1,6 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Recode by @zioassistant
+# t.me/SharingUserbot & t.me/underlevell
 
 import asyncio
 from datetime import datetime

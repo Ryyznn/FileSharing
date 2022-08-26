@@ -83,7 +83,7 @@ bash start
 ## 🏷 Support   
 - Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot 
 - Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Man.
-- Follow Channel [@underlevell] (https://t.me/underlevell) untuk melihat kegabutan
+- Follow Channel [@underlevell](https://t.me/underlevell) untuk melihat kegabutan
 
 ## 👨🏻‍💻 Credits
 

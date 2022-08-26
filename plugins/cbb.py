@@ -1,6 +1,6 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Recode by @zioassistant
+# t.me/SharingUserbot & t.me/underlevell
 
 from bot import Bot
 from config import OWNER

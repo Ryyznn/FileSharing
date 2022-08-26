@@ -1,6 +1,6 @@
-# Credits: @mrismanaziz
+# Credits: @zioassistant
 # FROM File-Sharing-Man <https://github.com/mrismanaziz/File-Sharing-Man/>
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/SharingUserbot & t.me/underlevell
 
 import os
 

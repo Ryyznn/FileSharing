@@ -1,4 +1,4 @@
-# File-Sharing-Man
+# File-Sharing-Bos
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.
@@ -35,8 +35,8 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ### Deploy in your VPS
 ````bash
-git clone https://github.com/mrismanaziz/File-Sharing-Man
-cd File-Sharing-Man
+git clone https://github.com/xred01/File-Sharing-Bos
+cd File-Sharing-Bos
 pip3 install -r requirements.txt
 cp sample_config.env config.env
 # edit config.env Anda dan isi VARS menggunakan nano config.env CTRL + S untuk menyimpan VARS Anda, 
@@ -83,6 +83,7 @@ bash start
 ## 🏷 Support   
 - Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot 
 - Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Man.
+- Follow Channel [@underlevell] (https://t.me/underlevell) untuk melihat kegabutan
 
 ## 👨🏻‍💻 Credits
 

@@ -1,12 +1,15 @@
-<h1 align="center">
+<h2 align="center">
   <b>Ryzen File Sharing</b>
 <h4>
 
 <p align="center">
-  <img src="https://telegra.ph//file/0a58303215ef3e160c24f.jpg">
-<h4>
-Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
+  <img src="https://telegra.ph//file/751cfabab9efc7dc415e7.jpg">
+</p>
+
+<h2 align="center">
+     Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.
+</h4>
 
 ## ⚠️ Disclaimer
 

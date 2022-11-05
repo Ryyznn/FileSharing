@@ -1,5 +1,7 @@
 # File-Sharing-Bos
-
+<p align="center">
+  <img src="https://telegra.ph//file/0a58303215ef3e160c24f.jpg">
+<h4>
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.
 
